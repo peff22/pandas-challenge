@@ -11,3 +11,4 @@ students_passing_math_and_reading = school_data_complete[
 ]
 school_students_passing_math_and_reading = students_passing_math_and_reading.groupby(["school_name"]).size()
 
+I was also provided the starter code which was included with the assignment instructions.
